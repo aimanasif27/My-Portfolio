@@ -277,7 +277,7 @@ h1, h2, h3, h4, h5, h6 {
 #hero {
   width: 100%;
   height: 75vh;
-  background: url("../img/hero-bg.jpg") top center;
+  background: url("../img/aiman2.jpg") top center;
   background-size: cover;
   padding: 0 15px;
 }
@@ -286,10 +286,18 @@ h1, h2, h3, h4, h5, h6 {
   font-size: 48px;
   font-weight: 700;
   line-height: 56px;
-  color: #fff;
+  color: #d43076;
+}
+#hero mark { 
+  background-color: rgba(0, 43, 2, 0.4);;
+  color: rgb(252, 252, 252);
+  margin-bottom: 10px;
+  font-size: 24px;
+  font-weight: 300;
+  font-family:"Work Sans", "Open Sans Condensed","Poppins", sans-serif;
 }
 #hero h2 {
-  color: #eee;
+  color: #0f2e13;
   margin-bottom: 10px;
   font-size: 24px;
   font-weight: 300;
@@ -453,7 +461,7 @@ section {
   color: #6b96be;
 }
 .about .image {
-  background: url("../img/me.jpg") center center no-repeat;
+  background: url("../img/aiman3.jpg") center center no-repeat;
   background-size: cover;
   min-height: 400px;
 }
