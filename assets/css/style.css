@@ -473,6 +473,11 @@ section {
     max-width: 80%;
   }
 }
+
+#pj {
+  text-align: justify;
+}
+
 @media (max-width: 667px) {
   .about .image img {
     max-width: 100%;
